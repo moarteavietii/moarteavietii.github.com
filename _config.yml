@@ -1,0 +1,8 @@
+title: Moarteavietii.github.com
+description: index
+google_analytics: UA-39437122-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
